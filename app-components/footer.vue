@@ -27,7 +27,7 @@
     <div class="container mx-auto flex flex-col min-[700px]:flex-row justify-between mt-4">
       <div class="mb-6 md:mb-0">
         <ul class="mt-4 space-y-2">
-          <li><a href="/udemy-business/?locale=en_US&amp;mx_pg=clp-gcp-architect-am&amp;path=%2F&amp;ref=footer"
+          <li><a href="#"
               class="text-sm hover:underline" target="_blank" rel="noopener">Udemy Business</a></li>
           <li><a class="text-sm hover:underline" href="#">Teach on Udemy</a></li>
           <li><a class="text-sm hover:underline" href="#" target="_blank" rel="noopener noreferrer">Get the
