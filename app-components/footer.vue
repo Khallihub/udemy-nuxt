@@ -4,7 +4,7 @@
       <div class="text-lg text-white flex-1">
         <span class="font-bold">
           Top companies choose
-          <a href="/udemy-business/?locale=en_US&amp;path=request-demo-mx%2F&amp;ref=footer-ad" target="_blank"
+          <a href="#" target="_blank"
             rel="noopener" class="text-blue-400 hover:underline">
             Udemy Business
           </a>
@@ -29,11 +29,11 @@
         <ul class="mt-4 space-y-2">
           <li><a href="/udemy-business/?locale=en_US&amp;mx_pg=clp-gcp-architect-am&amp;path=%2F&amp;ref=footer"
               class="text-sm hover:underline" target="_blank" rel="noopener">Udemy Business</a></li>
-          <li><a class="text-sm hover:underline" href="/teaching/?ref=teach_footer">Teach on Udemy</a></li>
-          <li><a class="text-sm hover:underline" href="/mobile/" target="_blank" rel="noopener noreferrer">Get the
+          <li><a class="text-sm hover:underline" href="#">Teach on Udemy</a></li>
+          <li><a class="text-sm hover:underline" href="#" target="_blank" rel="noopener noreferrer">Get the
               app</a></li>
-          <li><a class="text-sm hover:underline" href="https://about.udemy.com/?locale=en-us">About us</a></li>
-          <li><a class="text-sm hover:underline" href="https://about.udemy.com/company?locale=en-us#offices">Contact
+          <li><a class="text-sm hover:underline" href="#">About us</a></li>
+          <li><a class="text-sm hover:underline" href="#">Contact
               us</a></li>
         </ul>
       </div>
@@ -41,21 +41,21 @@
         <ul class="space-y-2">
           <li><a class="text-sm hover:underline" href="https://about.udemy.com/careers?locale=en-us">Careers</a></li>
           <li><a class="text-sm hover:underline" href="https://blog.udemy.com/?ref=footer">Blog</a></li>
-          <li><a class="text-sm hover:underline" href="/support/">Help and Support</a></li>
-          <li><a class="text-sm hover:underline" href="/affiliate/">Affiliate</a></li>
+          <li><a class="text-sm hover:underline" href="#">Help and Support</a></li>
+          <li><a class="text-sm hover:underline" href="#">Affiliate</a></li>
           <li><a class="text-sm hover:underline" href="https://investors.udemy.com">Investors</a></li>
         </ul>
       </div>
       <div class="">
         <ul class="space-y-2">
-          <li><a class="text-sm hover:underline" href="/terms/">Terms</a></li>
-          <li><a class="text-sm hover:underline" href="/terms/privacy/">Privacy policy</a></li>
+          <li><a class="text-sm hover:underline" href="#">Terms</a></li>
+          <li><a class="text-sm hover:underline" href="#">Privacy policy</a></li>
           <li data-testid="cookie-settings">
             <button type="button" class="text-sm hover:underline" data-purpose="footer.links.cookie_preferences">
               <span>Cookie settings</span>
             </button>
           </li>
-          <li><a class="text-sm hover:underline" href="/sitemap/">Sitemap</a></li>
+          <li><a class="text-sm hover:underline" href="#">Sitemap</a></li>
           <li><a class="text-sm hover:underline"
               href="https://about.udemy.com/accessibility-statement?locale=en-us">Accessibility statement</a></li>
         </ul>
